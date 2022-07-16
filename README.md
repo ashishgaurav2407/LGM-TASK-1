@@ -1,2 +1,2 @@
-# LGM1 TASK 1
+# LGM TASK 1
 To Do List
